@@ -1,0 +1,149 @@
+:root { 
+  --black: #000000;
+  --black-haze: #f4f6f9;
+  --blue: #2b59ff;
+  --bridal-heath: #fff9f3;
+  --desert-storm: #f8f8f8;
+  --eerie-black: #18181b;
+  --governor-bay: #3a30ba;
+  --magic-potion: #080a47;
+  --princess-perfume: #f480d4;
+  --sea-serpent: #45c9c1;
+  --storm-dust: #616161;
+  --sunglow: #ffc947;
+  --vulcan: #12141d;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 28px;
+  --font-size-xxxl: 42px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-archivo: "Archivo", Helvetica;
+  --font-family-cabinet_grotesk-bold: "Cabinet Grotesk-Bold", Helvetica;
+  --font-family-dm_sans: "DM Sans", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-outfit: "Outfit", Helvetica;
+}
+.cabinetgrotesk-bold-magic-potion-28px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-cabinet_grotesk-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-magic-potion-16px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-vulcan-18px {
+  color: var(--vulcan);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cabinetgrotesk-bold-magic-potion-48px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-cabinet_grotesk-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-semi-bold-magic-potion-18px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-vulcan-18px {
+  color: var(--vulcan);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-magic-potion-24px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-magic-potion-18px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.archivo-bold-magic-potion-7-2px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-archivo);
+  font-size: 7.2px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-semi-bold-magic-potion-20px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-bold-magic-potion-18px {
+  color: var(--magic-potion);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-storm-dust-18px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-semi-bold-governor-bay-16px {
+  color: var(--governor-bay);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-bridal-heath-16px {
+  color: var(--bridal-heath);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-bold-blue-16px {
+  color: var(--blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}

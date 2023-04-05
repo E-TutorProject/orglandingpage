@@ -1,0 +1,42 @@
+.button-primary-with-icon-1 {
+  align-items: center;
+  background-color: var(--governor-bay);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 65px;
+  justify-content: center;
+  margin-right: 58.0px;
+  padding: 16px 20px;
+  position: relative;
+  width: 250px;
+}
+
+.frame-1-1 {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.button-name-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-primary-with-icon-1.button-primary-with-icon-2 {
+  height: 58px;
+  left: 675px;
+  margin-right: unset;
+  position: absolute;
+  top: 260px;
+}
+

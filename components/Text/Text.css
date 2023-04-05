@@ -1,0 +1,28 @@
+.text-13-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 300px;
+  width: 640px;
+}
+
+.save-tutors-40-hour {
+  letter-spacing: -1.00px;
+  line-height: 54px;
+  min-height: 162px;
+  width: 636px;
+}
+
+.our-ai-advisor-syste {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 120px;
+  opacity: 0.8;
+  width: 636px;
+}
+
+.text-13-1.text-13 .our-ai-advisor-syste {
+  width: 603px;
+}
+

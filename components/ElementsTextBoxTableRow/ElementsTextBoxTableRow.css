@@ -1,0 +1,23 @@
+.elements-text-box-table-row {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: -25.06px;
+  position: relative;
+  width: 94.44px;
+}
+
+.title-1 {
+  align-self: stretch;
+  color: var(--magic-potion);
+  font-family: var(--font-family-dm_sans);
+  font-size: 7.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 10.7px;
+  margin-top: -0.59px;
+  position: relative;
+  white-space: nowrap;
+}
+

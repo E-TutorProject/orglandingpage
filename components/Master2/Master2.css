@@ -1,0 +1,38 @@
+.master-1 {
+  align-items: center;
+  display: flex;
+  gap: 5.9px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5.9px;
+  height: 14.17px;
+  position: relative;
+  width: 14.17px;
+}
+
+.solid-star {
+  align-self: stretch;
+  flex: 1;
+  height: 14.17px;
+  min-width: 14.17px;
+  position: relative;
+}
+
+.master-1.master-5 .container-1 {
+  align-items: center;
+  height: unset;
+  justify-content: center;
+  width: fit-content;
+}
+
+.master-1.master-5 .solid-star {
+  align-self: unset;
+  flex: unset;
+}
+

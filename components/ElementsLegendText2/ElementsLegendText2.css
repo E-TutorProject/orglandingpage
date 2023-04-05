@@ -1,0 +1,21 @@
+.elements-legend-text-1 {
+  align-items: flex-start;
+  border-radius: 6.05px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.label-1 {
+  letter-spacing: 0;
+  line-height: 10.0px;
+  margin-top: -0.60px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,23 @@
+.navigation-bars-title-24-no-no {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 10px 10px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 27px;
+  margin-left: 2px;
+  padding: 5.9px 0px 0px;
+  position: relative;
+  width: 201px;
+}
+
+.container {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 9.44px;
+  position: relative;
+}
+

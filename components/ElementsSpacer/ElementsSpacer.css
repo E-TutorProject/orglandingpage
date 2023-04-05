@@ -1,0 +1,11 @@
+.elements-spacer {
+  height: 9.44px;
+  min-width: 9.44px;
+  position: relative;
+}
+
+.elements-spacer.elements-spacer-1 {
+  align-self: stretch;
+  height: 25.17px;
+}
+

@@ -1,0 +1,22 @@
+.elements-text-box-nav-bar {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.title {
+  align-self: stretch;
+  color: var(--magic-potion);
+  font-family: var(--font-family-dm_sans);
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 36.4px;
+  margin-top: -0.59px;
+  position: relative;
+  white-space: nowrap;
+}
+

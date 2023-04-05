@@ -1,0 +1,7 @@
+.artwork {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+

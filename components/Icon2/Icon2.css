@@ -1,0 +1,15 @@
+.icon-10 {
+  align-items: flex-end;
+  background-color: var(--blue);
+  border-radius: 10px;
+  display: flex;
+  height: 20px;
+  min-width: 20px;
+  padding: 5.8px 4px;
+}
+
+.vector-3 {
+  height: 8px;
+  width: 11px;
+}
+

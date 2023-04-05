@@ -1,0 +1,10 @@
+.basic {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5.9px;
+  justify-content: center;
+  position: relative;
+  width: 165px;
+}
+
